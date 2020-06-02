@@ -1,0 +1,6 @@
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter10\DataStructuresChapter10\bin\Debug\DataStructuresChapter10.exe.config
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter10\DataStructuresChapter10\bin\Debug\DataStructuresChapter10.exe
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter10\DataStructuresChapter10\bin\Debug\DataStructuresChapter10.pdb
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter10\DataStructuresChapter10\obj\Debug\DataStructuresChapter10.csprojResolveAssemblyReference.cache
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter10\DataStructuresChapter10\obj\Debug\DataStructuresChapter10.exe
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter10\DataStructuresChapter10\obj\Debug\DataStructuresChapter10.pdb

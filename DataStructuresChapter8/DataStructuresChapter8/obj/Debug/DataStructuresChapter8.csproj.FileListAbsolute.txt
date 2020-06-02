@@ -1,0 +1,6 @@
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter8\DataStructuresChapter8\bin\Debug\DataStructuresChapter8.exe.config
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter8\DataStructuresChapter8\bin\Debug\DataStructuresChapter8.exe
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter8\DataStructuresChapter8\bin\Debug\DataStructuresChapter8.pdb
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter8\DataStructuresChapter8\obj\Debug\DataStructuresChapter8.csprojResolveAssemblyReference.cache
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter8\DataStructuresChapter8\obj\Debug\DataStructuresChapter8.exe
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter8\DataStructuresChapter8\obj\Debug\DataStructuresChapter8.pdb

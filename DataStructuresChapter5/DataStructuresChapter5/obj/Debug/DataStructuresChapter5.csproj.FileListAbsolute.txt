@@ -1,0 +1,6 @@
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter5\DataStructuresChapter5\bin\Debug\DataStructuresChapter5.exe.config
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter5\DataStructuresChapter5\bin\Debug\DataStructuresChapter5.exe
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter5\DataStructuresChapter5\bin\Debug\DataStructuresChapter5.pdb
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter5\DataStructuresChapter5\obj\Debug\DataStructuresChapter5.csprojResolveAssemblyReference.cache
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter5\DataStructuresChapter5\obj\Debug\DataStructuresChapter5.exe
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter5\DataStructuresChapter5\obj\Debug\DataStructuresChapter5.pdb

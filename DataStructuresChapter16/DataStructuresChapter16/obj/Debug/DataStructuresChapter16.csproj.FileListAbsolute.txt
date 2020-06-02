@@ -1,0 +1,6 @@
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter16\DataStructuresChapter16\bin\Debug\DataStructuresChapter16.exe.config
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter16\DataStructuresChapter16\bin\Debug\DataStructuresChapter16.exe
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter16\DataStructuresChapter16\bin\Debug\DataStructuresChapter16.pdb
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter16\DataStructuresChapter16\obj\Debug\DataStructuresChapter16.csprojResolveAssemblyReference.cache
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter16\DataStructuresChapter16\obj\Debug\DataStructuresChapter16.exe
+c:\users\kmatiya\documents\visual studio 2017\Projects\DataStructuresChapter16\DataStructuresChapter16\obj\Debug\DataStructuresChapter16.pdb
